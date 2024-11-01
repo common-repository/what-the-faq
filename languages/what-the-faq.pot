@@ -1,0 +1,388 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: What the FAQ\n"
+"POT-Creation-Date: 2021-12-19 09:49+0800\n"
+"PO-Revision-Date: 2021-12-19 09:48+0800\n"
+"Last-Translator: Rocket Apps <support@rocketapps.com.au>\n"
+"Language-Team: Rocket Apps <support@rocketapps.com.au>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: what-the-faq.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: inc/settings-sidebar.php:5
+msgid "More from Rocket Apps"
+msgstr ""
+
+#: inc/settings-sidebar.php:5
+msgid "Open Graphite Pro"
+msgstr ""
+
+#: inc/settings-sidebar.php:11
+msgid "Absolutely the best plugin of its kind..."
+msgstr ""
+
+#: inc/settings-sidebar.php:14
+msgid "Tour Administrator & Web Developer"
+msgstr ""
+
+#: inc/settings-sidebar.php:15
+msgid "Perth Observatory"
+msgstr ""
+
+#: inc/settings-sidebar.php:17
+msgid ""
+"Take control how your WordPress content is viewed when shared on social "
+"media."
+msgstr ""
+
+#: inc/settings-sidebar.php:19
+msgid "Buy Open Graphite Pro"
+msgstr ""
+
+#: inc/settings-ui.php:47
+msgid "What The FAQ"
+msgstr ""
+
+#: inc/settings-ui.php:71
+msgid "Pro"
+msgstr ""
+
+#: inc/settings-ui.php:77
+msgid "General Settings"
+msgstr ""
+
+#: inc/settings-ui.php:82
+msgid "FAQ page"
+msgstr ""
+
+#: inc/settings-ui.php:83
+msgid "Which page to show the FAQs."
+msgstr ""
+
+#: inc/settings-ui.php:85
+msgid "View page"
+msgstr ""
+
+#: inc/settings-ui.php:110
+msgid "Initital state"
+msgstr ""
+
+#: inc/settings-ui.php:111
+msgid "How FAQs should be initially displayed."
+msgstr ""
+
+#: inc/settings-ui.php:115
+msgid "Collapsed"
+msgstr ""
+
+#: inc/settings-ui.php:116
+msgid "Open"
+msgstr ""
+
+#: inc/settings-ui.php:122
+msgid "Background colour"
+msgstr ""
+
+#: inc/settings-ui.php:123
+msgid "The background colour of listed FAQs."
+msgstr ""
+
+#: inc/settings-ui.php:133
+msgid "FAQ title colour"
+msgstr ""
+
+#: inc/settings-ui.php:134
+msgid "The colour of the FAQ title."
+msgstr ""
+
+#: inc/settings-ui.php:144
+msgid "Icon colour"
+msgstr ""
+
+#: inc/settings-ui.php:145
+msgid "The colour of the icons (arrows, dates and links)."
+msgstr ""
+
+#: inc/settings-ui.php:155
+msgid "Border style"
+msgstr ""
+
+#: inc/settings-ui.php:156
+msgid "The presentation of the FAQ borders."
+msgstr ""
+
+#: inc/settings-ui.php:162
+msgid "Boxed (default)"
+msgstr ""
+
+#: inc/settings-ui.php:168
+msgid "Underline"
+msgstr ""
+
+#: inc/settings-ui.php:174 inc/settings-ui.php:300
+msgid "None"
+msgstr ""
+
+#: inc/settings-ui.php:183
+msgid "Border colour"
+msgstr ""
+
+#: inc/settings-ui.php:184
+msgid "The colour of the FAQ borders."
+msgstr ""
+
+#: inc/settings-ui.php:194
+msgid "Border radius"
+msgstr ""
+
+#: inc/settings-ui.php:195
+msgid "The border roundness of FAQs when open."
+msgstr ""
+
+#: inc/settings-ui.php:199 inc/settings-ui.php:210 inc/settings-ui.php:394
+msgid "px"
+msgstr ""
+
+#: inc/settings-ui.php:205
+msgid "Padding"
+msgstr ""
+
+#: inc/settings-ui.php:206
+msgid "The amount of padding inside the FAQ containers."
+msgstr ""
+
+#: inc/settings-ui.php:216
+msgid "Allow featured image"
+msgstr ""
+
+#: inc/settings-ui.php:217
+msgid "Allow a featured image to appear with FAQs."
+msgstr ""
+
+#: inc/settings-ui.php:221 inc/settings-ui.php:361 inc/settings-ui.php:372
+#: inc/settings-ui.php:383 inc/settings-ui.php:405
+msgid "Yes"
+msgstr ""
+
+#: inc/settings-ui.php:227
+msgid "Featured image position"
+msgstr ""
+
+#: inc/settings-ui.php:228
+msgid "Where featured images appear within FAQs."
+msgstr ""
+
+#: inc/settings-ui.php:233
+msgid "Float top left"
+msgstr ""
+
+#: inc/settings-ui.php:234
+msgid "Float top right"
+msgstr ""
+
+#: inc/settings-ui.php:235
+msgid "Top full width"
+msgstr ""
+
+#: inc/settings-ui.php:236
+msgid "Bottom full width"
+msgstr ""
+
+#: inc/settings-ui.php:242
+msgid "Advanced Settings"
+msgstr ""
+
+#: inc/settings-ui.php:247
+msgid "Disable FAQ styles"
+msgstr ""
+
+#: inc/settings-ui.php:248
+msgid "Disable all FAQ styles (you will have to write your own CSS)."
+msgstr ""
+
+#: inc/settings-ui.php:252
+msgid "Disable CSS"
+msgstr ""
+
+#: inc/settings-ui.php:258
+msgid "Disable FAQ JS"
+msgstr ""
+
+#: inc/settings-ui.php:259
+msgid ""
+"Disable all FAQ JavaScript (you will have to write your own JS if you want "
+"it)."
+msgstr ""
+
+#: inc/settings-ui.php:263
+msgid "Disable JS"
+msgstr ""
+
+#: inc/settings-ui.php:269
+msgid "Exclude from search"
+msgstr ""
+
+#: inc/settings-ui.php:270
+msgid "Don't show FAQs in search results"
+msgstr ""
+
+#: inc/settings-ui.php:274
+msgid "Exclude"
+msgstr ""
+
+#: inc/settings-ui.php:288
+msgid "Pro Features"
+msgstr ""
+
+#: inc/settings-ui.php:293
+msgid "Animation"
+msgstr ""
+
+#: inc/settings-ui.php:294
+msgid "How the FAQs appear when clicked."
+msgstr ""
+
+#: inc/settings-ui.php:298
+msgid "Fade"
+msgstr ""
+
+#: inc/settings-ui.php:299
+msgid "Slide"
+msgstr ""
+
+#: inc/settings-ui.php:306
+msgid "Arrow style"
+msgstr ""
+
+#: inc/settings-ui.php:307
+msgid "How the arrows appear."
+msgstr ""
+
+#: inc/settings-ui.php:344
+msgid "Arrow position"
+msgstr ""
+
+#: inc/settings-ui.php:345
+msgid "Where the arrows appear."
+msgstr ""
+
+#: inc/settings-ui.php:349
+msgid "Right"
+msgstr ""
+
+#: inc/settings-ui.php:350
+msgid "Left"
+msgstr ""
+
+#: inc/settings-ui.php:356
+msgid "Date"
+msgstr ""
+
+#: inc/settings-ui.php:357
+msgid "Show the date the FAQ was published."
+msgstr ""
+
+#: inc/settings-ui.php:367
+msgid "Allow FAQ pages"
+msgstr ""
+
+#: inc/settings-ui.php:368
+msgid "Each FAQ can also appear on a its own page (with its own URL)."
+msgstr ""
+
+#: inc/settings-ui.php:378
+msgid "Show FAQ link"
+msgstr ""
+
+#: inc/settings-ui.php:379
+msgid "Each FAQ will include a link to its page."
+msgstr ""
+
+#: inc/settings-ui.php:389
+msgid "Icon stroke width"
+msgstr ""
+
+#: inc/settings-ui.php:390
+msgid "How thick the outlines of the icons are."
+msgstr ""
+
+#: inc/settings-ui.php:400
+msgid "Use FAQ categories"
+msgstr ""
+
+#: inc/settings-ui.php:401
+msgid "FAQs must be categorised within WTF Categories."
+msgstr ""
+
+#: inc/settings-ui.php:411
+msgid "Category heading colour"
+msgstr ""
+
+#: inc/settings-ui.php:412
+msgid "The colour of the FAQ category headings."
+msgstr ""
+
+#: inc/settings-ui.php:422
+msgid "Upgrade To Pro"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: what-the-faq.php:72 what-the-faq.php:73
+msgid "What the FAQ"
+msgstr ""
+
+#: what-the-faq.php:74 what-the-faq.php:75
+msgid "Add FAQ"
+msgstr ""
+
+#: what-the-faq.php:76
+msgid "Edit FAQ"
+msgstr ""
+
+#: what-the-faq.php:77
+msgid "New FAQ"
+msgstr ""
+
+#: what-the-faq.php:78
+msgid "Search FAQs"
+msgstr ""
+
+#: what-the-faq.php:79
+msgid "No FAQs Found"
+msgstr ""
+
+#: what-the-faq.php:80
+msgid "No FAQs Found in Trash"
+msgstr ""
+
+#: what-the-faq.php:81
+msgid "All FAQs"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/what-the-faq/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create and configure Frequently Asked Questions."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rocket Apps"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rocketapps.com.au"
+msgstr ""
